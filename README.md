@@ -1,4 +1,4 @@
-# Consumo-de-API-BLOG
+# Consumo de API BLOG
 
 # SIte feito utilizando BootStrap juntamente com HTML, CSS e AngularJS para o consumo da API.
 
